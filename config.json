@@ -1,0 +1,19 @@
+{
+    "ownerBot": "6285829271476@c.us",
+    "itech": "5kSVIR-TequjH-aR60oj-xsoyYn-ePGiP7",
+    "uaOverride": "WhatsApp/2.2037.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
+    "api": {
+        "main":"https://anbug476.herokuapp.com/api",
+        "unplash":""
+    },
+    "sticker": {
+        "packname":"awokawok",
+        "author":"edwindefine"
+    },
+    "kerangMenu":{
+        "kapankah": ["detik", "menit", "jam", "hari", "minggu", "bulan", "tahun", "dekade", "abad"],
+        "apakah":["Ya","Mungkin iya","Mungkin","Mungkin tidak","Tidak","Tidak mungkin"]
+    }
+}
+
+    
